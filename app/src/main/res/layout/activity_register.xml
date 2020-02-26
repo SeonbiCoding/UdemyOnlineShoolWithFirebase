@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="64dp"
         android:layout_marginTop="150dp"
-        android:text="Login to"
+        android:text="Create"
         android:textColor="@android:color/white"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="64dp"
-        android:text="Your Account"
+        android:text="New Account"
         android:textColor="@android:color/white"
         android:textSize="36sp"
         android:textStyle="bold"
@@ -66,7 +66,7 @@
         app:layout_constraintTop_toBottomOf="@+id/et_register_email" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/register"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
